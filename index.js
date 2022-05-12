@@ -1,5 +1,7 @@
-Hi I am Poushe.
+let hello;
 
-This is not rochona.
+hello = 'Hi I am Poushe.';
 
-This is line 5
+hello1 = 'This is not rochona.';
+
+hello2 = 'This is line 5';
